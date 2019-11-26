@@ -2,7 +2,7 @@
 This Repo is for the project in Radiation Course based on question 4.7 in the textbook.
 
 It should contain jupyternote book files, two movie files and readme.
-The idea is to show comparasions among distant of a bright object, apparent distant observed by people on the earth, speed of the object and apparent speed.
+The idea is to show comparasions among distant of a bright object, apparent distance observed by people on the earth, speed of the object and apparent speed.
 From the theries, we know apparent speed could be larger than speed of light.
 
 v_{app} = v*sin(\theta)/(1-v*cos(\theta)/c).
