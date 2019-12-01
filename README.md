@@ -1,7 +1,7 @@
 # **project-for-radiation**
 
 ## **Introduction**
-This [Jupyter notebook]() demonstrates the apparent speed of an relativistic object(radiation source) exceeds speed of light while it's real speed is below speed of light. It is licensed under the [GNU GPL3 license](https://www.gnu.org/licenses/gpl-3.0.en.html). 
+This [Jupyter notebook]() demonstrates the apparent speed of an relativistic object(radiation source) exceeds speed of light while it's real speed is below speed of light. There are two different demo files, which show how apparent speed varies affected by 2 independent parameters. It is licensed under the [GNU GPL3 license](https://www.gnu.org/licenses/gpl-3.0.en.html). 
 
 
 ## **Dependencies**
