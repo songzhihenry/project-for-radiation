@@ -19,8 +19,9 @@ Clone the repository by typing:
 **git clone** [https://github.com/songzhihenry/project-for-radiation/](https://github.com/songzhihenry/project-for-radiation/)  
 Then open the notebook. For example, on a win10 type system, type:  
 **cd project-for-radiation**  
-**jupyter notebook Project for Radiation Course part1.ipynb**  
-**jupyter notebook Project for Radiation Course part2.ipynb**  
+**jupyter notebook Project for 'Radiation Course part1.ipynb'**  
+**jupyter notebook Project for 'Radiation Course part2.ipynb'**  
+One figure is inserted in the notebook at 2<sup>nd</sup> step, please fix the path for the figure by following the instruction marked above it.  
 
 <a name="myfootnote1">1</a>: *Radiatiive Processes in Astrophysics*, George B. Rybicki, Alan P. Lightman
 
